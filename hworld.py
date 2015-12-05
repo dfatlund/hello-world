@@ -1,3 +1,3 @@
-print "Hello world of GIT"
+print "Hello world of GIThub"
 ttt=23
-print "Hello " + str(ttt)
+print "Hello " + str(ttt*2)
