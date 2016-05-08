@@ -1,7 +1,6 @@
 import os, platform
 
-print "OS: " + os.name
-print "Platform: " + platform.system()
+print "OS: " + os.name + " Platform: " + platform.system()
 
 
 print "Hello world of GIThub"
